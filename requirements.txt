@@ -5,3 +5,4 @@ pydantic
 openai
 django
 google-generativeai
+python-dotenv
