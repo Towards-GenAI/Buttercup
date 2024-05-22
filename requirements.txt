@@ -3,3 +3,6 @@ langchain
 chainlit
 pydantic
 openai
+django
+google-generativeai
+python-dotenv
